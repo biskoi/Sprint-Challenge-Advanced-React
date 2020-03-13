@@ -1,0 +1,8 @@
+.dark {
+    background: black;
+    color: white;
+}
+
+.dark div{
+    border: solid white 1px;
+}
